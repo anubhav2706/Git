@@ -1,1 +1,5 @@
 phone
+
+version
+touchscreen
+cover
